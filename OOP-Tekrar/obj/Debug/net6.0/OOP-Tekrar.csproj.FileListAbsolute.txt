@@ -1,0 +1,15 @@
+C:\Users\buseAydin\source\repos\OOP-Tekrar\OOP-Tekrar\bin\Debug\net6.0\OOP-Tekrar.exe
+C:\Users\buseAydin\source\repos\OOP-Tekrar\OOP-Tekrar\bin\Debug\net6.0\OOP-Tekrar.deps.json
+C:\Users\buseAydin\source\repos\OOP-Tekrar\OOP-Tekrar\bin\Debug\net6.0\OOP-Tekrar.runtimeconfig.json
+C:\Users\buseAydin\source\repos\OOP-Tekrar\OOP-Tekrar\bin\Debug\net6.0\OOP-Tekrar.dll
+C:\Users\buseAydin\source\repos\OOP-Tekrar\OOP-Tekrar\bin\Debug\net6.0\OOP-Tekrar.pdb
+C:\Users\buseAydin\source\repos\OOP-Tekrar\OOP-Tekrar\obj\Debug\net6.0\OOP-Tekrar.csproj.AssemblyReference.cache
+C:\Users\buseAydin\source\repos\OOP-Tekrar\OOP-Tekrar\obj\Debug\net6.0\OOP-Tekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buseAydin\source\repos\OOP-Tekrar\OOP-Tekrar\obj\Debug\net6.0\OOP-Tekrar.AssemblyInfoInputs.cache
+C:\Users\buseAydin\source\repos\OOP-Tekrar\OOP-Tekrar\obj\Debug\net6.0\OOP-Tekrar.AssemblyInfo.cs
+C:\Users\buseAydin\source\repos\OOP-Tekrar\OOP-Tekrar\obj\Debug\net6.0\OOP-Tekrar.csproj.CoreCompileInputs.cache
+C:\Users\buseAydin\source\repos\OOP-Tekrar\OOP-Tekrar\obj\Debug\net6.0\OOP-Tekrar.dll
+C:\Users\buseAydin\source\repos\OOP-Tekrar\OOP-Tekrar\obj\Debug\net6.0\refint\OOP-Tekrar.dll
+C:\Users\buseAydin\source\repos\OOP-Tekrar\OOP-Tekrar\obj\Debug\net6.0\OOP-Tekrar.pdb
+C:\Users\buseAydin\source\repos\OOP-Tekrar\OOP-Tekrar\obj\Debug\net6.0\OOP-Tekrar.genruntimeconfig.cache
+C:\Users\buseAydin\source\repos\OOP-Tekrar\OOP-Tekrar\obj\Debug\net6.0\ref\OOP-Tekrar.dll
